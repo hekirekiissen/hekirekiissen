@@ -2,7 +2,7 @@
 	<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Front-End%20Developer&fontAlignY=45&fontSize=40&height=150&desc=Sanghyun&descAlignY=70">
 </div>
 
-<div align="center" style="margin-top:15px">
+<div align="center" style="margin-top:50px">
 	<div font-size="30px">My Stack</div>
 	<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a>
 	<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a>
