@@ -1,5 +1,3 @@
-                                                        👋 ㅎ2 나 상현이
-
-
-                                                      오, 프론트엔드 재밌겠다
- 
+<div align="center">
+	<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=FE%20Developer&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=hanminss&descAlignY=70">
+</div>
