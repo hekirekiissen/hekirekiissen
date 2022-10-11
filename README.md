@@ -1,6 +1,5 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Growing%20Front-End%20Developer&fontAlignY=45&fontSize=40&height=150&desc=Sanghyun0505&descAlignY=70">  
-</div>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Front-End%20developer&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Sanghyun0505)
 
 # <div align="center">🖥️ My Tech Stacks
 <div align="center">
@@ -11,3 +10,12 @@
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a>
 </div>
 </div>
+
+# <div align="center">❤️Me
+<div align="center">
+<a href="https://www.instagram.com/sanghyun_x6/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sanghyun_x6/"/></a>
+<a href="mailto:sanghyun9467@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sanghyun9467@gmail.com"/></a>
+</div>
+</div>
+
+
