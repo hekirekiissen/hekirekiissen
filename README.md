@@ -11,7 +11,3 @@
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a>
 </div>
 </div>
-
-# <div align="center">👏My Stats
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Sanghyun0505&show_icons=true&theme=radical"/></a></div>
-</div>
