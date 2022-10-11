@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Front-End%20developer&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Sanghyun0505)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Front-End%20Developer&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Sanghyun0505)
 
 # <div align="center">🛠️Tech Stacks
 <div align="center">
