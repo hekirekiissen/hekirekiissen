@@ -19,3 +19,5 @@
 <a href="https://blog.naver.com/parksanghyun0505/"><img src="https://img.shields.io/badge/-Naver%20log-brightgreen?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/parksanghyun0505/"/></a>
 </div>
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&fontSize=90)
