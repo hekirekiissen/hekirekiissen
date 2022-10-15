@@ -16,7 +16,7 @@
 <a href="https://www.instagram.com/sanghyun_x6/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sanghyun_x6/"/></a>
 <a href="mailto:sanghyun9467@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sanghyun9467@gmail.com"/>
 </a>
-<a href="https://blog.naver.com/parksanghyun0505/"><img src="https://img.shields.io/badge/-Naver%20log-brightgreen?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/parksanghyun0505/"/></a>
+<a href="https://blog.naver.com/parksanghyun0505/"><img src="https://img.shields.io/badge/-Naver%20Blog-brightgreen?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/parksanghyun0505/"/></a>
 </div>
 </div>
 
