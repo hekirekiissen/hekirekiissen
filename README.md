@@ -1,6 +1,5 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Front-End%20Developer&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Sanghyun0505)
-
 # <div align="center">🛠️Tech Stacks
 <div align="center">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
@@ -21,10 +20,13 @@
 </div>
 </div>
 
+# <div align="center"> BOJ
  [![Solved.ac
 Profile](http://mazassumnida.wtf/api/generate_badge?boj=doldory55)](https://solved.ac/doldory55) 
+</div>
 
+# <div align="center"> MOST LANG
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanghyun0505&layout=compact)](https://github.com/Sanghyun0505/github-readme-stats)
+</div>
 
-<!-- ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&fontSize=90) -->
-![footer](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=150&section=footer&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&fontSize=90)
