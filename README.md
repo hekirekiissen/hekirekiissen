@@ -21,4 +21,10 @@
 </div>
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&fontSize=90)
+ [![Solved.ac
+Profile](http://mazassumnida.wtf/api/generate_badge?boj=doldory55)](https://solved.ac/doldory55) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanghyun0505&layout=compact)](https://github.com/Sanghyun0505/github-readme-stats)
+
+<!-- ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&fontSize=90) -->
+![footer](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=150&section=footer&fontSize=90)
