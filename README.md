@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Front-End%20Developer&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Sanghyun0505)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Sanghyun0505&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Front-End%20Developer)
 # <div align="center">🛠️Tech Stacks</div>
 <div align="center">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
