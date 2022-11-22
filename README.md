@@ -1,5 +1,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Sanghyun0505&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Front-End%20Developer)
+
+<img src="https://github.com/Sanghyun0505/Sanghyun0505/blob/main/contributions.svg" />
+
+
 # <div align="center">🛠️Tech Stacks</div>
 <div align="center">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
@@ -19,9 +23,9 @@
 </div>
 
 
-# <div align="center">⚓Most Lang & BOJ
+# <div align="center">⚓Most Lang & BOJ</div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanghyun0505&layout=compact)](https://github.com/Sanghyun0505/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=doldory55)](https://solved.ac/profile/doldory55)
 
-<img src="https://github.com/Sanghyun0505/Sanghyun0505/blob/main/contributions.svg" />
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&fontSize=90)
+
