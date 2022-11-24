@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Sanghyun0505&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Front-End%20Developer)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Sanghyun0505&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Front-End%20Junior%20Developer)
 
 <img src="https://github.com/Sanghyun0505/Sanghyun0505/blob/main/contributions.svg" />
 
