@@ -23,9 +23,9 @@
 </div>
 
 
-# <div align="center">⚓Most Lang
+<!-- # <div align="center">⚓Most Lang</div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanghyun0505&layout=compact)](https://github.com/Sanghyun0505/github-readme-stats)
-</div>
+ -->
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&fontSize=90)
 
