@@ -1,13 +1,14 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Sanghyun0505&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Front-End%20Junior%20Developer)
+![header](https://capsule-render.vercel.app/api?type=waving&color=radical&height=300&section=header&text=Sanghyun0505&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Front-End%20Junior%20Developer)
+<!-- gradient -->
 
-<!-- [<img width=50% src="https://github-readme-stats.vercel.app/api?username=sanghyun&show_icons=true">](https://github.com/Sanghyun0505) -->
+<div align="center">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=doldory55" width=50%/>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanghyun0505&layout=compact)](https://github.com/Sanghyun0505/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=doldory55)](https://solved.ac/profile/doldory55)
-
+<div align="center">
 <img src="https://github.com/Sanghyun0505/Sanghyun0505/blob/main/contributions.svg" />
-
+</div>
 
 # <div align="center">🛠️Tech Stacks</div>
 <div align="center">
@@ -27,10 +28,9 @@
 <a href="https://blog.naver.com/parksanghyun0505/"><img src="https://img.shields.io/badge/-Naver%20Blog-brightgreen?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/parksanghyun0505/"/></a>
 </div>
 
-
-<!-- # <div align="center">⚓Most Lang</div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanghyun0505&layout=compact)](https://github.com/Sanghyun0505/github-readme-stats)
- -->
-
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&fontSize=90)
+# <div align="center">⚓Most Lang</div>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanghyun0505&theme=radical&layout=compact&hide_border=true" alt="my github top langs" width=49% />
+<img src="https://github-readme-stats.vercel.app/api?username=Sanghyun0505&theme=radical&show_icons=true&hide_border=true" alt="my github stats" width=50% />
+</div>
 
