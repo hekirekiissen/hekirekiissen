@@ -4,7 +4,7 @@
   <div>현재 프론트엔드 개발자가 되기위해 공부하고 있습니다.</div>
 </div>
 
-<h2 align="left"> 🫶 Me</h2>
+<h2 align="left"> ✌ Me</h2>
 <div align="left">
   <a href="https://half-sloop-ecb.notion.site/Park-Sang-Hyun-fbb7aa1382fe466ca80ecf8e8b8bcee4/" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://half-sloop-ecb.notion.site/Park-Sang-Hyun-fbb7aa1382fe466ca80ecf8e8b8bcee4"/></a>
   <a href="https://www.instagram.com/seojaeisnewcityboyy/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/seojaeisnewcityboyy/"/></a>
