@@ -12,22 +12,4 @@
   <a href="https://blog.naver.com/parksanghyun0505/" target="_blank"><img src="https://img.shields.io/badge/-Naver%20Blog-brightgreen?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/parksanghyun0505/"/></a>
 </div>
 
-<h2 align="left"> 🛠 Tech Stacks</h2>
-<div align="left">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-</div>
-<div align="left">
-  <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=TypeScript&logoColor=#3178C6">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-</div>
-
-<h2 align="left"> ⚓ Most Lang</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanghyun0505&theme=radical&layout=compact&hide_border=true" alt="my github top langs" width=50.5% />
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanghyun0505&theme=radical&show_icons=true&hide_border=true" alt="my github stats" width=49% />
-</div>
 
