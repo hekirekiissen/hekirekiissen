@@ -12,7 +12,7 @@
   <a href="https://blog.naver.com/parksanghyun0505/" target="_blank"><img src="https://img.shields.io/badge/-Naver%20Blog-brightgreen?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/parksanghyun0505/"/></a>
 <a href="https://velog.io/@doldory55/" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&https://velog.io/@doldory55/"/></a>
 </div>
-
+<!-- 
 <h2 align="left">🛠️ Tech Stacks</h2>
 <div align='left'>
 <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=61DAFB">
@@ -31,5 +31,5 @@
 <div align='left'>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanghyun0505&layout=compact" width='37.25%'>
   <img src="https://github-readme-stats.vercel.app/api?username=Sanghyun0505&show_icons=true" width='49%'>
-</div>
+</div> -->
 
