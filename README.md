@@ -1,4 +1,4 @@
-<h2> 👋 Hi, there!</h2>
+<!-- <h2>👋 Hi there!</h2>
 <div>
   <div>🙇‍♂️ 안녕하세요! 대구소프트웨어마이스터고등학교에 재학 중인 박상현입니다.</div>
   <div>현재 프론트엔드 개발자가 되기위해 공부하고 있습니다.</div>
@@ -11,7 +11,7 @@
   <a href="mailto:sanghyun9467@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sanghyun9467@gmail.com"/></a>
   <a href="https://blog.naver.com/parksanghyun0505/" target="_blank"><img src="https://img.shields.io/badge/-Naver%20Blog-brightgreen?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/parksanghyun0505/"/></a>
 <a href="https://velog.io/@doldory55/" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&https://velog.io/@doldory55/"/></a>
-</div>
+</div> -->
 <!-- 
 <h2 align="left">🛠️ Tech Stacks</h2>
 <div align='left'>
@@ -32,4 +32,4 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanghyun0505&layout=compact" width='37.25%'>
   <img src="https://github-readme-stats.vercel.app/api?username=Sanghyun0505&show_icons=true" width='49%'>
 </div> -->
-
+<h2>✌️🤪✌️</h2>
